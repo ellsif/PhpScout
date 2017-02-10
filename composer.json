@@ -1,5 +1,5 @@
 {
-    "name": "ellsif/PhpScout",
+    "name": "ellsif/php-scout",
     "description": "real time PHP document generator",
     "keywords": ["php", "document", "markdown"],
     "type": "library",
