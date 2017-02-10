@@ -1,0 +1,7 @@
+<phpunit bootstrap="../vendor/autoload.php" colors="true">
+<testsuites>
+    <testsuite name="PhpScout Test">
+        <file>ellsif/PhpScout/ScoutTest.php</file>
+    </testsuite>
+</testsuites>
+</phpunit>

@@ -1,0 +1,22 @@
+{
+    "name": "ellsif/PhpScout",
+    "description": "real time PHP document generator",
+    "keywords": ["php", "document", "markdown"],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/ellsif/PhpScout",
+    "authors": [
+        {
+            "name": "ellsif",
+            "email": "hatasu@ellsif.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "6.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+          "ellsif\\PhpScout": "src/"
+        }
+    }
+}
